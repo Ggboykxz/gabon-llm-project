@@ -1,0 +1,7 @@
+unsloth
+transformers
+torch
+accelerate
+peft
+bitsandbytes
+gradio
